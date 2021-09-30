@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nobcha of a Ham.
 - 👀 I’m interested in making homebrew rigs.
 - 🌱 I’m currently learning Arduino, SDR, and environment circuits.
-- 💞️ I’m looking to collaborate on an homebrew enthualists.
+- 💞️ I’m looking forward to collaborate with homebrew enthualists.
 - 📫 My E-Mail address is "nobcha48 at gmail.com "
 
 <!---
